@@ -36,6 +36,7 @@ body{
 fill: yellow;
 }
 footer {
+    font-size: 1.3rem;
     border: 5px solid white;
     background-color: yellow;
     padding: 3rem;
@@ -92,6 +93,21 @@ section article:hover {
 section article h3, section article p {
    margin: 1rem;
 }
-
+section iframe {
+    margin-top: 50px;
+    margin-left: 275px;
+ }
+ .home {
+    color: white;
+    text-decoration-line: none;
+}
+.mail {
+    color: cornflowerblue;
+    text-decoration-line: none;
+}
+.wtp {
+    color: cornflowerblue;
+    text-decoration-line: none;
+}
 
 
