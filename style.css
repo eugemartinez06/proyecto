@@ -54,9 +54,17 @@ footer p {
 header section{
     float: left;
 }
-header sh1{
+header h1 {
     float: center;
     margin: 0;
+}
+.cardImage {
+    height: 300px;
+    width: 300px;
+}
+.escudo {
+    height: 150px;
+    width: 150px;
 }
 
 
