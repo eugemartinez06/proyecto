@@ -109,5 +109,17 @@ section iframe {
     color: cornflowerblue;
     text-decoration-line: none;
 }
-
+.galeria {
+    padding: 16px;
+}
+.lista img {
+    width: 100%;
+    object-fit: cover;
+    margin-right: 10px;
+}
+.lista {
+    display: flex;
+    overflow-y: auto;
+    margin-top: 10px;
+}
 
