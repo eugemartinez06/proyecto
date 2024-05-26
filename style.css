@@ -3,7 +3,7 @@ html {
         font-weight: 400;
         font-style: normal;   
         color: white;
-        text-shadow: 2px 2px 2px cornflowerblue;
+        text-shadow: 5px 2px 2px cornflowerblue;
 }
 header {
     margin: 12px 0px 20px 10px;
@@ -20,6 +20,7 @@ header {
     border-bottom-right-radius: 5rem;
 }
 body{
+    margin: 0;
     background-image: url(/327958-svetik.jpg);
     background-size: cover;
 }
@@ -31,11 +32,10 @@ body{
     fill: cornflowerblue;
     stroke: white;
 }
-.mapadiv :hover{
+.mapadiv :hover{    
 fill: yellow;
 }
 footer {
-    margin-top: 100%;
     border: 5px solid white;
     background-color: yellow;
     padding: 3rem;
@@ -63,8 +63,34 @@ header h1 {
     width: 300px;
 }
 .escudo {
+    margin-bottom: 100px;
     height: 150px;
     width: 150px;
+}
+.titulo1 {
+    font-size: 4rem;
+    float: center;
+    margin: 0;
+}
+
+.container {
+    width: 300px;
+    margin:  auto;
+    text-align: left;
+}
+section article {
+    transition: box-shadow 0.3s ease;
+    background-color: cornflowerblue;
+    margin: 1rem 0;    
+    border-radius: 1rem;
+    padding: 0.25rem 0;
+    cursor: pointer;
+}
+section article:hover {
+    box-shadow: 0 0.8rem 1rem yellow;
+ }
+section article h3, section article p {
+   margin: 1rem;
 }
 
 
