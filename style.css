@@ -96,6 +96,7 @@ section article h3, section article p {
 section iframe {
     margin-top: 50px;
     margin-left: 275px;
+    border-radius: 30px;
  }
  .home {
     color: white;
@@ -112,14 +113,23 @@ section iframe {
 .galeria {
     padding: 16px;
 }
-.lista img {
+.imagenprincipal img {
     width: 100%;
     object-fit: cover;
+}
+.lista img {
+    width: 800px;
+    height: 500px;
+    object-fit: fill;
     margin-right: 10px;
+    border-radius: 30px;
+    border-style: groove;
+    color: yellow;
 }
 .lista {
     display: flex;
     overflow-y: auto;
-    margin-top: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
