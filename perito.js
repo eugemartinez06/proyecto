@@ -1,0 +1,1 @@
+window.alert ("AVISO AL VISITANTE: El parque se encuentra abierto al público desde el 1º de octubre hasta el 30 de abril de cada año.")

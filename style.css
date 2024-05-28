@@ -76,8 +76,10 @@ header h1 {
     margin: 0;
 }
 .container {
+    float: left;
     width: 300px;
-    margin:  auto;
+    margin-left: 200px;
+    margin-bottom: 70px;
     text-align: left;
     color: white;
 }
@@ -264,5 +266,84 @@ h4 {
     border-radius: 10px;
     border-style: solid;
     border-color: yellow;
+}
+.bur {  
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: yellow;  
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.rincon {
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: yellow; 
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.belgrano {
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: yellow; 
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.azara {
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: yellow; 
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.valle {
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: yellow; 
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.con {
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: yellow; 
+    padding: 5px;
+    width: 40%;
+    margin-left: 50px;
+    float: left;
+}
+.sin {
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: yellow; 
+    padding: 15px;
+    width: 40%;
+    height: 100px;
+    margin-left: 30px;
+    float: left;
 }
 
