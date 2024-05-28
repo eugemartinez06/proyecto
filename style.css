@@ -21,9 +21,9 @@ header {
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 5rem;
 }
-body{
+body {
     margin: 0;
-    background-image: url(/327958-svetik.jpg);
+    background-image: url(fondo.jpg);
     background-size: cover;
 }
 .mapadiv path {
