@@ -99,6 +99,8 @@ section iframe {
     margin-top: 50px;
     margin-left: 275px;
     border-radius: 30px;
+    border-style: solid;
+    border-color: yellow;
  }
  .home {
     color: white;
@@ -165,5 +167,45 @@ h4 {
 .table {
     margin-left: 15px;
     background-color: cornflowerblue;
+}
+.exentos {
+    float: left;
+    margin-bottom: 15px;
+    margin-left: 9px;
+    margin-right: 7px;
+    border-radius: 5px;
+    text-align: justify;
+    padding: 10px;
+    color: white;
+    text-shadow: 5px 2px 2px yellow;
+    background-color: cornflowerblue;
+}
+.zonanorte {
+    margin-left: 50px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    float: left;
+    padding: 70px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: yellow;
+}
+.zonasur {
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 20px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+    float: left;
+    padding: 70px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: yellow;
+}
+.bariloche {
+    color: white;
+    margin-bottom: 10px;
 }
 
